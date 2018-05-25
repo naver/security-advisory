@@ -202,6 +202,10 @@ caption,legend,.blind {
     line-height: 28px;
     color: #676767;
 }
+.main_article .item_title a {
+    text-decoration: none;
+    color: #4d4d4d;
+}
 .main_article .item_title {
     padding: 40px 0 10px;
     font-size: 22px;
